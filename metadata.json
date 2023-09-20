@@ -1,0 +1,24 @@
+{
+      "description": "My First Nft",
+      "external_url": "https://web.facebook.com/photo/?fbid=3279657899030732&set=pcb.3279659052363950",
+      "image": "https://ipfs.filebase.io/ipfs/QmaVuqB5QB3hPHCSNNKLSHUrSUnPZ518o33yLzx3hBAKMT",
+      "name": "Nft",
+      "attributes": [
+            {
+                  "trait_type": "wrap",
+                  "value": "Reliance"
+            },
+            {
+                  "trait_type": "Value",
+                  "value": "Teck"
+            },
+            {
+                  "trait_type": "Space",
+                  "value": "Tech"
+            },
+            {
+                  "trait_type": "",
+                  "value": "Piety"
+            }
+      ]
+}
